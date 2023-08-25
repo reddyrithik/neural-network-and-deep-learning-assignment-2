@@ -1,1 +1,3 @@
-# neural-network-and-deep-learning-assignment-2
+# neural-network-and-deep-learning-assignment-2\
+
+Video link 
